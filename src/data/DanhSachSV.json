@@ -1,0 +1,14 @@
+[
+    {
+        "MaSv": "abc123",
+        "HoTen": "Thanh Bình",
+        "SoDienThoai": "08234923498",
+        "email": "abc@gmail.com"
+    },
+    {
+        "MaSv": "bcd123",
+        "HoTen": "Khải Doanh",
+        "SoDienThoai": "08234923498",
+        "email": "abc@gmail.com"
+    }
+]
