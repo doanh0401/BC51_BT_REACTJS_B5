@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import "bootstrap/dist/css/bootstrap.css";
 import UserManagement from './UserManagement'
 import RegistorForm from './RegistorForm'
 
